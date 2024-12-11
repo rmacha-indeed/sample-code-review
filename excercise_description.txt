@@ -1,0 +1,8 @@
+Twitter basic functionality
+A user can follow other users.
+Your homepage will display all tweets from the people whom you are following.
+
+Assume twitter allows users to mark a tweet as favourite.
+Let's say twitter has a new page to display only favourite tweets i.e. favourite dashboard.
+The MR is to build favourites dashboard from all the tweets the user is following.
+
